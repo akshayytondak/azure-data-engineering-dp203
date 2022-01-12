@@ -1,6 +1,6 @@
 # Azure Data Engineering Hand Written Notes
 
 
-### This repository contains DP-203 exam notes.
+This repository contains DP-203 exam notes.
 
-### Feel free to send PRs and collaborate
+Feel free to send PRs and collaborate
